@@ -1,0 +1,11 @@
+Git is VCS (version controlling system) this is a powerful tool to help in controlling the version of the application that we build.
+but before the Git it is very hard and memory consuming task to versioning the software or application.
+before the git we have to write manually about the changes we had done to the software and the file added or modified, we have to take backup of it
+but now we have GIT (VCS) it helps to control the version of the application as well as it doesn't take any extra space and copy of the file we have newly added.
+
+-feature of GIT
+    - first feature is to control the version of the application
+    - second feature is to help in team collaboration.
+    - third feature as it provide central repository.
+    - fourth feature is the feature of branching
+
